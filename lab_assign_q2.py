@@ -1,3 +1,7 @@
+"This prgram is used now"
+
+
+
 class staff:
     def data(self,name,code):
         self.name=name
@@ -105,3 +109,4 @@ while True:
 
 
         
+
